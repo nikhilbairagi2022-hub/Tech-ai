@@ -1,2 +1,3 @@
-# Tech-ai
-Duniya bhar ki sari chijen poochhne ke liye Gemini 3 flash
+AlEngine(Geminiservice.ts):jo Gemini se baat karta hai 
+Main ui(App.tsx):jahan chat, image generation aur monetization (paisa kamane wala feature) hai
+voice Mode (voiceview.tsx):jahan aap bol kar baat kar sakte hain 
